@@ -1,0 +1,47 @@
+main {
+   
+    border-color:black;
+    border-style: solid;
+    border-width: 1px;
+    margin: 0 auto;
+    width: 80vw;
+    padding: 2rem;
+    background-color: rgb(71, 71, 71);
+}
+body {
+    color: black;
+    background-color: #000000;
+    font:1.6rem "VT323", monospace;
+    border-style: solid;
+}
+h1 {
+    color: rgb(240, 210, 39);
+    
+
+}
+h2{
+    color: firebrick;
+    border-style: solid;
+}
+blockquote {
+    background-color: #BA274A;
+    padding: 1rem;
+}
+img{
+    border-style: solid;
+    border-color:#28464B;
+    border-width: 10px;
+}
+a{
+    
+    color: red;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    
+}
